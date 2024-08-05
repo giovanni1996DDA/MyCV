@@ -5,7 +5,7 @@ const AboutMe = () => {
     
     <>
         <p className='mb-4'>
-            Soy <span className='font-bold'>Juan Cruz Diaz de Argandoña</span>, un estudiante de Ingeniería en Sistemas con una fuerte pasión por la programación y el desarrollo de software. Mi experiencia laboral incluye programación en <span className='font-bold'>ABAP</span>, <span className='font-bold'>SQLServer</span> y <span className='font-bold'>VB.NET</span>, lo que me ha permitido adquirir habilidades sólidas en el desarrollo de aplicaciones empresariales y la gestión de bases de datos.
+            Soy <span className='font-bold'>Juan Cruz Díaz de Argandoña</span>, un estudiante de Ingeniería en Sistemas con una fuerte pasión por la programación y el desarrollo de software. Mi experiencia laboral incluye programación en <span className='font-bold'>ABAP</span>, <span className='font-bold'>SQLServer</span> y <span className='font-bold'>VB.NET</span>, lo que me ha permitido adquirir habilidades sólidas en el desarrollo de aplicaciones empresariales y la gestión de bases de datos.
         </p>
         <p className='mb-4'>
             Actualmente me encuentro trabajando en una <a href="https://ocasa.com/" target='_blank' className='text-cyan-400 hover:text-cyan-300 transition-all font-bold'>excelente empresa de logística</a>, enfocado a crear soluciones eficientes, mejorar lo no tan eficiente, y mantener lo creado anteriormente por el equipo fantástico del que formo parte.

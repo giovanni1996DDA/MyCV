@@ -7,7 +7,7 @@ const HeaderPage = () => {
     <header className='lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24'>
         <div>
             <h1 className='text-4xl font-bold tracking-tight sm:text-5xl text-cyan-500'>
-                Juan Cruz Diaz 
+                Juan Cruz Díaz 
             </h1>
             <h2 className='mt-3 text-lg font-medium tracking-tight sm:text-xl text-cyan-400'>
                 Developer

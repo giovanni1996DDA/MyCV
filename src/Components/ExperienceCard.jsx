@@ -24,9 +24,15 @@ const ExperienceCard = ({experience}) => {
                     </a>
                 </div>
             </h3>
-            <p className='mt-2 text-sm leading-normal'>
-                {experience.tasks}
-            </p>
+            <ul className='mt-2 flex flex-col'>
+                {
+                    experience.tasks.map((task) => (
+                        <li key={task} className='mt-2 text-sm leading-normal'>
+                            <p className=''>•	{task}.</p>
+                        </li>
+                    ))
+                }
+            </ul>
             <ul className='mt-2 flex flex-wrap'>
                 {
                     experience.technologies.map((technologie) => (

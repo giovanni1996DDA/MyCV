@@ -11,7 +11,11 @@ const experiences = [
             name: "Ocasa",
             website: "https://ocasa.com/"
         },
-        tasks:"lorem ipsum dolor sit atmet",
+        tasks:[ "Mantenimiento de código", 
+                "Documentación de jerarquías de dependencias (Con un software hecho por mí, en Python)",
+                "Desarrollo de herramientas externas",
+                "Smartforms"
+            ],
         technologies: ["ABAP"]
     },
     {
@@ -21,7 +25,17 @@ const experiences = [
             name: "Indra",
             website: "https://www.indracompany.com/"
         },
-        tasks:"lorem ipsum dolor sit atmet",
+        tasks:[
+            "Mantenimiento de código",
+            "Desarrollo de nuevas soluciones",
+            "Debug de códigos estándar y no estándar",
+            "ABAP OO",
+            "Implementación y corrección de BAdIs",
+            "Utilización de BAPIs",
+            "Pase de objetos de ECC6 a HANA",
+            "Enhancements",
+            "User Exits"
+        ],
         technologies: ["ABAP"]
     },
     {
@@ -31,7 +45,13 @@ const experiences = [
             name: "Group ITMind",
             website: "https://www.groupitmind.com/"
         },
-        tasks:"lorem ipsum dolor sit atmet",
+        tasks:[
+            "Proyecto de implementación de módulos PPM y PS",
+            "Desarrollo de interfaces para soluciones externas (Mediante archivos de texto plano)",
+            "Adaptación de Property Providers para Extended ECM for SAP Solutions",
+            "ABAP OO",
+            "Implementación de FS2 AutoBank (En conjunto con consultores alemanes, de habla inglesa)"
+        ],
         technologies: ["ABAP", "PPM", "PS", "FI"]
     },
     {
@@ -41,7 +61,13 @@ const experiences = [
             name: "Grupo MAS Software",
             website: "https://www.grupomas.software/"
         },
-        tasks:"lorem ipsum dolor sit atmet",
+        tasks:[
+            "Consultoría para ERP propio de la empresa",
+            "Desarrollo de soluciones para ERP propio de la empresa en VB.NET",
+            "Creación de frontend en HTML, CSS y JavaScript para arquitectura ASP",
+            "Manejo de Base de datos SQLServer",
+            "Consultoría Microsoft Dynamics NAV"
+        ],
         technologies: ["VB.NET", "JavaScript", "HTML", "CSS", "SQLServer", "Dynamics NAV"]
     }
 ];
