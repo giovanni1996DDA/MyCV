@@ -33,6 +33,16 @@ function App() {
       </div>
     </ScrollProvider>
   );
+  /*return (
+    <div className='flex flex-col justify-center items-center w-1/2 m-auto min-h-screen gap-5'>
+      <h1 className='text-9xl font-bold tracking-tight sm:text-5xl text-cyan-400'>
+        Juan Cruz Díaz de Argandoña
+      </h1>
+      <div className='flex items-center rounded-full bg-cyan-300/15 px-3 py-1 text-xs font-medium leading-5 text-cyan-300 '>
+        <span className='text-4xl mt-1 mb-2 mr-3 ml-3'>Software Developer</span>
+      </div>
+    </div>
+  )*/
 }
 
 export default App;
